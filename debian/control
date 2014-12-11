@@ -10,4 +10,5 @@ Package: python-graphitesend
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, python (>=2.6)
 Description: send metrics to graphite
- Python library that makes it easy to graphite (see https://github.com/linka/graphitesend/tree/deb-0.3.4).
+ Python library that makes it easy to graphite
+ (see https://github.com/linka/graphitesend/tree/deb-0.3.4).
