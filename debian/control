@@ -1,6 +1,7 @@
 Source: graphitesend
 Maintainer: Danny Lawrence <dannyla@linux.com>
-Section: misc
+Uploaders: Elina Suslova <ellin@yandex-team.ru>
+Section: python
 Priority: optional
 Standards-Version: 3.8.4
 Build-Depends: debhelper (>= 7), python (>=2.6), python-central
