@@ -2,11 +2,12 @@ Source: graphitesend
 Maintainer: Danny Lawrence <dannyla@linux.com>
 Section: misc
 Priority: optional
-Standards-Version: 3.9.2
-Build-Depends: debhelper (>= 8)
+Standards-Version: 3.8.4
+Build-Depends: debhelper (>= 7)
+Homepage: https://github.com/daniellawrence/graphitesend
 
-Package: graphitesend
+Package: python-graphitesend
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: send metrics to graphite
- Python library that makes it easy to graphite.
+ Python library that makes it easy to graphite (see https://github.com/linka/graphitesend/tree/deb-0.3.4).

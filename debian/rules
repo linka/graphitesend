@@ -1,3 +1,7 @@
 #!/usr/bin/make -f
+export DH_OPTIONS
+export DH_VERBOSE=1
+DEB_PYTHON_SYSTEM=pycentral
+
 %:
-	dh $@
+	dh $@ --with python-central

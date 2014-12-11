@@ -1,3 +1,9 @@
+graphitesend (0.3.4) unstable; urgency=low
+
+  * Release pip version 0.3.4
+
+ -- Elina Suslova <ellin@yandex-team.ru>  Wed, 10 Dec 2014 19:28:43 +0200
+
 graphitesend (0.0.4-1) UNRELEASED; urgency=low
 
   * Initial release. (Closes: #XXXXXX)
